@@ -36,7 +36,7 @@ Download and install the official modern Termux build from either:
 Open Termux on your phone, copy the command below, and paste it:
 
 ```bash
-pkg install -y git && git clone https://github.com/your-username/rea-termux-antigravity.git ~/rea-termux-antigravity && cd ~/rea-termux-antigravity && bash install.sh
+pkg install -y git && git clone https://github.com/Dasharatha21/rea-termux-antigravity.git ~/rea-termux-antigravity && cd ~/rea-termux-antigravity && bash install.sh
 ```
 
 ### What `install.sh` automatically does for you:
