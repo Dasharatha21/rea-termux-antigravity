@@ -1,0 +1,23 @@
+# Node / NPM
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Demo & Test Output
+rea-demo-output/
+output/
+dist/
+*.log
+
+# Temporary & Environment files
+.env
+.env.local
+*.tmp
+*.swp
+.DS_Store
+
+# Android & Build Artifacts
+*.apk
+*.dex
+*.so
